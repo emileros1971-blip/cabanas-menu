@@ -1,3 +1,3 @@
 # Cabanas
 
-Digital restaurant menu. GitHub Pages: main / (root).
+Bilingual digital menu. GitHub Pages publishing source: main / (root).
